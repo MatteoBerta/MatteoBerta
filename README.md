@@ -10,6 +10,7 @@ I’m a Data Scientist and currently a Research Fellow at Politecnico di Torino 
 - 💡My research interests include Natural Language Processing (NLP), Inclusive Language 📖, and the Fair and Ethical Use of AI 🤖.
 - 💻 Currently, I’m working on detecting stereotypes in news 📰 and advancing Inclusive Language techniques 📖.
 - 👀 I’m looking to collaborate on NLP-related topics, particularly around Ethical Use of Large Language Models (LLMs), Stereotypical Detection, and Bias & Fairness in NLP.
+- 📫 Contact me. Send me a [mail](matteo.berta@polito.it).
 
 --- 
 
