@@ -1,4 +1,4 @@
-## Welcome! 👋 I'm Matteo Berta
+<h2 align="center">Welcome! 👋 I'm Matteo Berta</h2>
 <!--
 **MatteoBerta/MatteoBerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
