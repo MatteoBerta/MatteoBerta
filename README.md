@@ -15,8 +15,8 @@ I’m a Data Scientist and currently a Research Fellow at Politecnico di Torino 
 
 Although I’m guilty of being an engineer, I agree with Vladimir Nabokov’s view: "Curiosity is insubordination in its purest form." So, I tend to dabble in a lot of things, but nothing particularly well:
 
-- 🚴 I’m attempting to not embarrass myself while cycling and running 🏃
-- 📷 I’m trying to communicate something profound through photography... or just taking blurry pictures.
+- 🚴 I’m attempting to not embarrass myself while [cycling and running](https://www.strava.com/athletes/9202712) 🏃
+- 📷 I’m trying to communicate something profound through [photography](https://www.instagram.com/mat_be99)... or just taking blurry pictures.
 - 📖 I have a deep love for French Literature and enjoy exploring philosophy
 - 🎸 I play the guitar and can manage a few chords on the keyboard 🎹, though I’m also a former trumpet player 🎺
 - 🎨 I'm in love with art in every form and I have a deep love for human beings 👫 and nature 🌻
