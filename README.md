@@ -21,11 +21,12 @@ Although I’m guilty of being an engineer, I agree with Vladimir Nabokov’s vi
 - 🎸 I play the guitar and can manage a few chords on the keyboard 🎹, though I’m also a former trumpet player 🎺
 - 🎨 I'm in love with art in every form and I have a deep love for human beings 👫 and nature 🌻
 
-
-> *Je m'étais voulue sans bornes : j'étais informe comme l'infini.*
-> 
-> — Simone de Beavuoir
-
-
-
+<div align="center">
+  <blockquote>
+    <p>
+      <i>Je m'étais voulue sans bornes : j'étais informe comme l'infini.</i>
+    </p>
+    <p>Simone de Beauvoir</p>
+  </blockquote>
+</div>
 
